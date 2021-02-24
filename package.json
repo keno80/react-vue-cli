@@ -6,6 +6,9 @@
   "repository": "https://github.com/keno80/react-vue-cli.git",
   "author": "keno80 <1211582428@qq.com>",
   "license": "MIT",
+  "bin": {
+    "mvc": "./bin/mvc.js"
+  },
   "dependencies": {
     "commander": "^7.1.0",
     "inquirer": "^7.3.3"
