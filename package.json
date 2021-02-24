@@ -1,0 +1,13 @@
+{
+  "name": "react-vue-cli",
+  "version": "1.0.0",
+  "description": "a cli project include vue and react",
+  "main": "index.js",
+  "repository": "https://github.com/keno80/react-vue-cli.git",
+  "author": "keno80 <1211582428@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^7.1.0",
+    "inquirer": "^7.3.3"
+  }
+}
